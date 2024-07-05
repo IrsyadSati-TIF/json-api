@@ -1,0 +1,95 @@
+{
+    "Informasi" :
+    [
+        {
+            "nama"          : "FILKOM GEDUNG F",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "FILKOM GEDUNG G",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "FILKOM GEDUNG H",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "FILKOM GEDUNG A",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "FILKOM GEDUNG GKM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "MUSHOLLA FILKOM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "RUANG BACA FILKOM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "RUANG ALGORITMA FILKOM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "RUANG GYM FILKOM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+        {
+            "nama"          : "RUANG KERJA BERSAMA FILKOM",
+            "deskripsi"     : "abcdfghijklmn",
+            "fasilitas"     : [
+                "fasilitas 1",
+                "fasilitas 2",
+                "fasilitas 3"
+            ]
+        },
+    ]
+}
